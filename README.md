@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Bharatjain9/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0392-is-subsequence](https://github.com/Bharatjain9/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 ## Tree
 |  |
 | ------- |
@@ -36,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Bharatjain9/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Bharatjain9/LeetCode-Solutions/tree/master/0392-is-subsequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Bharatjain9/LeetCode-Solutions/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
